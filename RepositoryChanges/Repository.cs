@@ -14,6 +14,8 @@ namespace Library
 
         //private string path;
 
+        //Новая строчка кода для Git-a
+
         int index;
         string[] titles;
 
