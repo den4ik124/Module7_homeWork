@@ -172,7 +172,7 @@ namespace Library
             //for (int i = 0; i < this.taskPlaners.Length; i++)   //переопределяем ID задач после чистки
             //{
             //    this.taskPlaners[i].id = i + 1;
-            //}
+            //}                                                 //можно не переприсваивать ID задачам
 
         }
 
