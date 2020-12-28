@@ -14,8 +14,6 @@ namespace Library
 
         //private string path;
 
-        //удалили новую строку. Првоеряем в IDE
-
         int index;
         string[] titles;
 
